@@ -11982,11 +11982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josue\\source\\repos\\QuartzNetCore2\\QuartzNetCore2\\QuartzNetCore2.csproj",
+      "projectUniqueName": "C:\\Users\\Josue\\Source\\Repos\\Mercally\\UseQuartzCSharp\\QuartzNetCore2\\QuartzNetCore2.csproj",
       "projectName": "QuartzNetCore2",
-      "projectPath": "C:\\Users\\Josue\\source\\repos\\QuartzNetCore2\\QuartzNetCore2\\QuartzNetCore2.csproj",
+      "projectPath": "C:\\Users\\Josue\\Source\\Repos\\Mercally\\UseQuartzCSharp\\QuartzNetCore2\\QuartzNetCore2.csproj",
       "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josue\\source\\repos\\QuartzNetCore2\\QuartzNetCore2\\obj\\",
+      "outputPath": "C:\\Users\\Josue\\Source\\Repos\\Mercally\\UseQuartzCSharp\\QuartzNetCore2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
