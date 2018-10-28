@@ -1,0 +1,14 @@
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\bin\Debug\netcoreapp2.1\QuartzNetCore2.deps.json
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\bin\Debug\netcoreapp2.1\QuartzNetCore2.runtimeconfig.json
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\bin\Debug\netcoreapp2.1\QuartzNetCore2.runtimeconfig.dev.json
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\bin\Debug\netcoreapp2.1\QuartzNetCore2.dll
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.RazorAssemblyInfo.cache
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.RazorAssemblyInfo.cs
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.AssemblyInfo.cs
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.RazorTargetAssemblyInfo.cache
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\bin\Debug\netcoreapp2.1\QuartzNetCore2.pdb
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.dll
+C:\Users\Josue\source\repos\QuartzNetCore2\QuartzNetCore2\obj\Debug\netcoreapp2.1\QuartzNetCore2.pdb
